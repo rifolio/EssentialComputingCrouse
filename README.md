@@ -1,13 +1,11 @@
 # Random Pits Path Finding Game
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Language-Java-orange.svg">
-  <img src="https://img.shields.io/badge/Algorithm-Breadth_First_Search_BFS-purple.svg">
-</p>
+<img src="https://img.shields.io/badge/Language-Java-orange.svg">
+<img src="https://img.shields.io/badge/Algorithm-Breadth_First_Search_BFS-purple.svg">
 
 <p align="center">
   <figure>
-    <img src="Figures/logo.png" alt="Game Logo">
+    <img src="Figures/logo.png" alt="Game Logo" width="50%">
     <figcaption style="text-align: center;">
       <em><a href="https://www.growingwiththeweb.com/2012/06/a-pathfinding-algorithm.html">Growing with the Web: A* pathfinding algorithm</a></em>
     </figcaption>
